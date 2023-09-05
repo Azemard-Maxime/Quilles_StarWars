@@ -1,4 +1,4 @@
-## Projet Python - Peip1 Polytech Nice Sophia
+## Projet Jeu de quilles Python - Peip1 Polytech Nice Sophia
 
   Le projet est un jeu de quilles personnalisé par le thème « Star Wars ». Vous jouez
 contre un lutin R2D2. A bord de votre vaisseau spatial vous tirez chacun votre tour sur des
