@@ -7,3 +7,5 @@ choix de tirer au centre, à droite ou à gauche. Si un vaisseau est touché à 
 du groupe de quilles, alors le vaisseau correspondant est détruit. Si vous choisissez de tirer
 au milieu du groupe. Le vaisseau central et le vaisseau voisins sont détruits en même temps.
 L’objectif est de détruire le dernier vaisseau en premier.
+
+https://github.com/Azemard-Maxime/Quilles_StarWars/blob/main/Images/Capture%20d%E2%80%99%C3%A9cran%20de%202021-01-05%2020-56-21.png
